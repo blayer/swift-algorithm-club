@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		7B80C3DA1C77A323003CECC7 /* BinarySearchTreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7B80C3D91C77A323003CECC7 /* BinarySearchTreeTests.swift */; };
+		83C3E9E21F26F0F900D3D219 /* BST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83C3E9E11F26F0F900D3D219 /* BST.swift */; };
 		9E5A58B91E304C3100DAB3BB /* BinarySearchTree.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E5A58B81E304C3100DAB3BB /* BinarySearchTree.swift */; };
 /* End PBXBuildFile section */
 
@@ -15,6 +16,7 @@
 		7B2BBC801C779D720067B71D /* Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7B2BBC941C779E7B0067B71D /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = SOURCE_ROOT; };
 		7B80C3D91C77A323003CECC7 /* BinarySearchTreeTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BinarySearchTreeTests.swift; sourceTree = SOURCE_ROOT; };
+		83C3E9E11F26F0F900D3D219 /* BST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BST.swift; sourceTree = SOURCE_ROOT; };
 		9E5A58B81E304C3100DAB3BB /* BinarySearchTree.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = BinarySearchTree.swift; path = ../BinarySearchTree.playground/Sources/BinarySearchTree.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -51,6 +53,7 @@
 				9E5A58B81E304C3100DAB3BB /* BinarySearchTree.swift */,
 				7B80C3D91C77A323003CECC7 /* BinarySearchTreeTests.swift */,
 				7B2BBC941C779E7B0067B71D /* Info.plist */,
+				83C3E9E11F26F0F900D3D219 /* BST.swift */,
 			);
 			name = Tests;
 			path = TestsTests;
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7B80C3DA1C77A323003CECC7 /* BinarySearchTreeTests.swift in Sources */,
+				83C3E9E21F26F0F900D3D219 /* BST.swift in Sources */,
 				9E5A58B91E304C3100DAB3BB /* BinarySearchTree.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
